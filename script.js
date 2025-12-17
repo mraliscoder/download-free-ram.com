@@ -38,7 +38,7 @@ function showWindowsError(ramSize) {
             <div class="error-title">ERROR: INCOMPATIBLE OPERATING SYSTEM</div>
             <p><strong>Error Code:</strong> 0xDEADBEEF</p>
             <p style="margin-top: 1rem;">Unfortunately, Windows does not support downloading RAM.</p>
-            <p style="margin-top: 0.5rem;">Microsoft has disabled this feature to frce users to buy overpriced RAM modules.</p>
+            <p style="margin-top: 0.5rem;">Microsoft has disabled this feature to force users to buy overpriced RAM modules.</p>
             <p style="margin-top: 1.5rem;"><strong>Requested Allocation:</strong> ${ramSize}GB</p>
             <p style="margin-top: 0.5rem;"><strong>Status:</strong> FAILED</p>
             <p style="margin-top: 1.5rem; color: #ababab;">Try switching to Linux to unlock the free RAM download feature!</p>
